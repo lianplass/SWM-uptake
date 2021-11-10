@@ -1,2 +1,2 @@
 # SWM-uptake
-Prototyping for the DOEE SWM grant project final report
+Prototyping for the SWM grant project final report
